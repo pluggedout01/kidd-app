@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211.09 230.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #101212;
+      }
+    </style>
+  </defs>
+  <g id="demon_cats" data-name="demon cats">
+    <g>
+      <circle class="cls-1" cx="105.08" cy="131.89" r="98.21"/>
+      <polygon class="cls-1" points="196.59 99.55 147.42 44.92 211.09 0 196.59 99.55"/>
+      <polygon class="cls-1" points="14.5 99.55 63.67 44.92 0 0 14.5 99.55"/>
+    </g>
+  </g>
+</svg>
